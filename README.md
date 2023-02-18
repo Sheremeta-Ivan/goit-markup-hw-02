@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-The first project-hw on the course FullStack from GoIT
+# goit-markup-hw-02
+The second project-hw on the course FullStack from GoIT
